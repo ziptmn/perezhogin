@@ -1,0 +1,94 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="perezhogin.ru" resolutions="1x" timestamp="1646329917683">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="356471166" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="rectangle 1.png" crc="435295295" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rectangle-2.svg" crc="3836676668" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rectangle 2_poster_.png" crc="148620008" ref="index"/>
+    <file name="ellipse 79.png" crc="3766528286" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ellipse 78.png" crc="108740517" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ellipse 20.png" crc="4087315193" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ellipse 82.png" crc="3940512704" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ellipse 80.png" crc="3904336525" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ellipse 127.png" crc="80285761" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ellipse 81.png" crc="3782361296" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ellipse 19.png" crc="4260975946" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ellipse 85.png" crc="403125954" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ellipse 84.png" crc="131421033" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ellipse 83.png" crc="3858940211" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ellipse 86.png" crc="3920181284" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ellipse 87.png" crc="3782932488" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ellipse 92.png" crc="3900230311" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ellipse 93.png" crc="3769775853" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ellipse 110.png" crc="410981000" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ellipse 90.png" crc="3764847965" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ellipse 89.png" crc="3938939828" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ellipse 88.png" crc="4285775958" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ellipse 91.png" crc="219825226" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ellipse 118.png" crc="3838282366" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ellipse 135.png" crc="197788045" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3829303716" seo="true" mt="1646329917137" redirect="true"/>
+</manifest>
